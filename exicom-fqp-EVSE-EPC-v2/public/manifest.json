@@ -1,0 +1,13 @@
+{
+  "name": "Exicom EV FQP Manager",
+  "short_name": "EV FQP",
+  "description": "Field Quality Plan for Exicom EV Charging Station installations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
